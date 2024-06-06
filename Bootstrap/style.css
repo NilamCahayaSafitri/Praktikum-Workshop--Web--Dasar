@@ -1,0 +1,19 @@
+:root{
+    --custom-background-color: #a4826a;
+}
+
+.bg-primary{
+    background-color: var(--custom-background-color) !important;
+}
+
+.nav-link.active{
+    background-color: var(--custom-background-color) !important;
+}
+
+.btn-primary{
+    background-color: var(--custom-background-color) !important;
+}
+
+.dropdown-item:active{
+    background-color: var(--custom-background-color) !important;
+}
